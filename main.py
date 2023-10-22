@@ -18,3 +18,4 @@ tweet = "Привет, это Twitter бот, созданный с помощь
 api.update_status(tweet)
 
 print("Твит успешно опубликован!")
+print("H4ck3r")
